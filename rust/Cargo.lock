@@ -4213,6 +4213,20 @@ dependencies = [
 ]
 
 [[package]]
+name = "hyperlane-cli"
+version = "0.1.0"
+dependencies = [
+ "clap 4.4.17",
+ "ethers",
+ "eyre",
+ "hyperlane-core",
+ "serde_json",
+ "tokio",
+ "tracing",
+ "tracing-futures",
+]
+
+[[package]]
 name = "hyperlane-core"
 version = "0.1.0"
 dependencies = [
