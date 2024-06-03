@@ -1,0 +1,8 @@
+[
+	{
+		"origindomain": "1",
+		"senderaddress": "*",
+		"destinationdomain": "*",
+		"recipientaddress": "*"
+	}
+]
